@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @damiangarayalde, I'm an electronic eng. with specialization in additive manufacturing and bio-engineering. 
 - 👀 I’m interested and looking to collaborate in projects related to healthcare, bioengineering, additive manufacturing and education.
-- 🌱 I’m currently learning PyTorch and TensorFlow as part of my journey into AI/ML and Computer Vision
+- 🌱 I’m working as ETL Engineer and actively working my learning path into ML / AI
 - 📫 You can reach me on damiangarayalde@gmail.com or my [LinkedIn](https://www.linkedin.com/in/damiangarayalde/) 
-
-- My ComputerVision related repos are [here](https://github.com/damigara-computer-vision-projects)
-- My Django Testing repos are [here](https://github.com/damigara-django-projects)
 
 
 <!---
