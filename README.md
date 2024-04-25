@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @damiangarayalde, an ETL Software Engineer working my path into ML / AI. 
+- 👋 Hi, I’m @damiangarayalde, a Data Engineer working my path into ML / AI. 
 
 - I have a degree on electronics and have been working in additive manufacturing for +7 years
 
